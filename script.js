@@ -1,4 +1,4 @@
-const basePath = "media/";
+const basePath = "public/media/";
 const scrollOptions = { passive: false };
 import { initControls, controlsInstance } from "/Experience/World/Controls.js";
 
